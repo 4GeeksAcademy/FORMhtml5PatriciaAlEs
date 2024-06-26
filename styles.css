@@ -1,0 +1,15 @@
+
+.navbar {
+    background-color: rgb(246, 201, 201);
+  
+}
+
+.navbar-brand span {
+    color: brown
+    
+}
+
+.iconostarjetas .form-check {
+    display: inline-block;
+    margin-right: 20px;
+}
